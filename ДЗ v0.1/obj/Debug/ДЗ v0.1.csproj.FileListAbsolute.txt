@@ -1,0 +1,7 @@
+D:\Games\Visual Studio\ДЗ v0.1\ДЗ v0.1\bin\Debug\ДЗ v0.1.exe.config
+D:\Games\Visual Studio\ДЗ v0.1\ДЗ v0.1\bin\Debug\ДЗ v0.1.exe
+D:\Games\Visual Studio\ДЗ v0.1\ДЗ v0.1\bin\Debug\ДЗ v0.1.pdb
+D:\Games\Visual Studio\ДЗ v0.1\ДЗ v0.1\obj\Debug\ДЗ v0.1.csproj.AssemblyReference.cache
+D:\Games\Visual Studio\ДЗ v0.1\ДЗ v0.1\obj\Debug\ДЗ v0.1.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\ДЗ v0.1\ДЗ v0.1\obj\Debug\ДЗ v0.1.exe
+D:\Games\Visual Studio\ДЗ v0.1\ДЗ v0.1\obj\Debug\ДЗ v0.1.pdb
